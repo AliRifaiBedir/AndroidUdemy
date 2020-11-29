@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Realm_ Örnek_1(Kayıt Ekleme)"

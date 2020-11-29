@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_dark"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="italic"
+        android:text="User Id : "
+        android:layout_height="wrap_content"
+        android:id="@+id/userId"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="italic"
+        android:text="Id : "
+        android:layout_height="wrap_content"
+        android:id="@+id/id"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@android:color/holo_orange_dark"
+        android:text="Title : "
+        android:textStyle="italic"
+        android:layout_height="wrap_content"
+        android:id="@+id/Gelentitle"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/completed"/>
+
+</LinearLayout>

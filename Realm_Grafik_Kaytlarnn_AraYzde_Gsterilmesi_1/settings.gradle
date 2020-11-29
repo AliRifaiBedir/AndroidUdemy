@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Realm_Grafik_Kayıtlarının_AraYüzde_Gösterilmesi_1"

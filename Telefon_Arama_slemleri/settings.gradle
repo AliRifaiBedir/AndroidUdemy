@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Telefon_Arama_İslemleri"
